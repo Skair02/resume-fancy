@@ -1,2 +1,5 @@
 # resume-fancy
-A modified version of Jake's resume
+
+Latex template for a resume - intended for knowledge workers.
+
+Based on Jake's Resume - https://github.com/jakegut/resume.
